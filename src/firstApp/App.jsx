@@ -29,7 +29,7 @@ const MyButton = () => {
     );
 }
 
-export const CounterApp = () => {
+export const FirstApp = () => {
     return (
         <>
             <h1>Welcome to my App</h1>
